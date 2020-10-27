@@ -1,5 +1,5 @@
 'scopeName': 'source.deb-control'
-'name': 'Debian package control file'
+'name': 'Debian Package Control File'
 'fileTypes': [
   'control'
   'dsc'

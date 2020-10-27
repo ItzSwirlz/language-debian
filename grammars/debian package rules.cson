@@ -1,5 +1,5 @@
 'scopeName': 'source.debian.makefile'
-'name': 'Debian package rules'
+'name': 'Debian Package Rules'
 'fileTypes': [
   'rules'
   'rules.in'
