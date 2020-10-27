@@ -1,0 +1,14 @@
+'scopeName': 'source.debian.source.format'
+'name': 'Debian Source Format File'
+'fileTypes': [
+  'format'
+]
+
+'repository'
+  'fields':
+    'patterns': [
+      {
+        'begin':  '\\('
+        'end': ')'
+      }
+    ]
