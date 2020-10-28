@@ -1,0 +1,10 @@
+'name': "Debian Package GSettings Overrides File"
+'scopeName': "source.debian.gsettings-override"
+'fileTypes': [
+  "gsettings-override"
+]
+'patterns': [
+  {
+    'include': "source.css"
+  }
+]
