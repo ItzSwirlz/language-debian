@@ -1,10 +1,10 @@
-name: "Debian Packaging Copyright File"
-scopeName: "source.debian.copyright"
-fileTypes: [
+'name': "Debian Packaging Copyright File"
+'scopeName': "source.debian.copyright"
+'fileTypes': [
   "copyright"
 ]
-patterns: [
+'patterns': [
   {
-    include: "source.debian.control"
+    'include': "source.debian.control"
   }
 ]

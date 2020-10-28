@@ -1,10 +1,10 @@
-name: "Debian Packaging Upstream Metadata File"
-scopeName: "source.debian.upstream.metadata"
-fileTypes: [
+'name': "Debian Packaging Upstream Metadata File"
+'scopeName': "source.debian.upstream.metadata"
+'fileTypes': [
   "metadata"
 ]
-patterns: [
+'patterns': [
   {
-    include: "source.debian.control"
+    'include': "source.clojure"
   }
 ]

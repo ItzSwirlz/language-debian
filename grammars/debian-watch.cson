@@ -1,14 +1,14 @@
-name: "Debian Packaging Watch File"
-scopeName: "source.debian.watch"
-fileTypes: [
+'name': "Debian Packaging Watch File"
+'scopeName': "source.debian.watch"
+'fileTypes': [
   "watch"
 ]
-patterns: [
+'patterns': [
   {
-    include: "source.cs"
+    'include': "source.cs"
   }
   {
-    match: "^#(load|r)"
-    name: "preprocessor.source.csx"
+    'match': "^#(load|r)"
+    'name': "preprocessor.source.csx"
   }
 ]
