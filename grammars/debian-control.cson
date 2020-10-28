@@ -1,10 +1,7 @@
-'scopeName': 'source.deb-control'
-'name': 'Debian Package Control File'
+'name': 'Debian Packaging Control File'
+'scopeName': 'source.debian.control'
 'fileTypes': [
   'control'
-  'dsc'
-  'changes'
-  'copyright'
 ]
 'patterns': [
   {
