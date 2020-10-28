@@ -1,0 +1,10 @@
+'name': "Debian Package Pre-Install Script"
+'scopeName': "source.debian.preinst"
+'fileTypes': [
+  "preinst"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]

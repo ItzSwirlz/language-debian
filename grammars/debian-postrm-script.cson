@@ -1,0 +1,10 @@
+'name': "Debian Package Post-Remove Script"
+'scopeName': "source.debian.postrm"
+'fileTypes': [
+  "postrm"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]

@@ -1,0 +1,10 @@
+'name': "Debian Package Pre-Remove Script"
+'scopeName': "source.debian.prerm"
+'fileTypes': [
+  "prerm"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]

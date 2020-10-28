@@ -1,0 +1,10 @@
+'name': "Debian Package Post-Install Script"
+'scopeName': "source.debian.postinst"
+'fileTypes': [
+  "postinst"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]
