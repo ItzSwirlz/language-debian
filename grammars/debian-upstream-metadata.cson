@@ -5,6 +5,6 @@
 ]
 'patterns': [
   {
-    'include': "source.clojure"
+    'include': "source.debian.control"
   }
 ]

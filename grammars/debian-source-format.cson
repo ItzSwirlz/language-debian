@@ -3,3 +3,8 @@
 'fileTypes': [
   'format'
 ]
+'patterns': [
+  {
+    'include': "source.clojure"
+  }
+]
