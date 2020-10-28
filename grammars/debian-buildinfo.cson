@@ -1,0 +1,10 @@
+'name': "Debian Package Build Information File"
+'scopeName': "source_version_arch.buildinfo"
+'fileTypes': [
+  "changes"
+]
+'patterns': [
+  {
+    'include': "source.debian.control"
+  }
+]
