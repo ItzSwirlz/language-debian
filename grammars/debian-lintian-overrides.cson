@@ -1,0 +1,10 @@
+'name': "Debian Packaging Lintian Overrides File"
+'scopeName': "source.debian.lintian-overrides"
+'fileTypes': [
+  "lintian-overrides"
+]
+'patterns': [
+  {
+    'include': "source.debian.control"
+  }
+]
