@@ -1,0 +1,10 @@
+name: "Debian Package DSC File"
+scopeName: "source_version.dsc"
+fileTypes: [
+  "dsc"
+]
+patterns: [
+  {
+    include: "source.debian.control"
+  }
+]

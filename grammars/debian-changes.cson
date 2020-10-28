@@ -1,0 +1,10 @@
+name: "Debian Package Changes File"
+scopeName: "source_version.changes"
+fileTypes: [
+  "changes"
+]
+patterns: [
+  {
+    include: "source.debian.control"
+  }
+]

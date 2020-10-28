@@ -1,0 +1,10 @@
+name: "Debian Packaging Upstream Metadata File"
+scopeName: "source.debian.upstream.metadata"
+fileTypes: [
+  "metadata"
+]
+patterns: [
+  {
+    include: "source.debian.control"
+  }
+]
