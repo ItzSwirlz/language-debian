@@ -1,0 +1,10 @@
+'name': "Debian Packaging Compatability File (deprecated, use debhelper-compat)"
+'scopeName': "source.debian.compat"
+'fileTypes': [
+  "compat"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]
