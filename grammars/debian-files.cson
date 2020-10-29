@@ -1,0 +1,10 @@
+'name': "Debian Package Built Files List"
+'scopeName': "source.debian.files"
+'fileTypes': [
+  "files"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]
