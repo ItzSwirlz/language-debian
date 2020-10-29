@@ -1,0 +1,10 @@
+'scopeName': 'source.debian.source.include-binaries'
+'name': 'Debian Source Binaries File'
+'fileTypes': [
+  'include-binaries'
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]

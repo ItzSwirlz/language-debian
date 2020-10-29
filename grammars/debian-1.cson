@@ -1,0 +1,10 @@
+'name': "Debian Package Manpage (1)"
+'scopeName': "source.debian.package.1"
+'fileTypes': [
+  "1"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]

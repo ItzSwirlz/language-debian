@@ -1,0 +1,10 @@
+'name': "Debian Package Symlinks File"
+'scopeName': "source.debian.package.links"
+'fileTypes': [
+  "links"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]

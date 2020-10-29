@@ -1,0 +1,10 @@
+'name': "Debian Package Directories File"
+'scopeName': "source.debian.package.dirs"
+'fileTypes': [
+  "dirs"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]

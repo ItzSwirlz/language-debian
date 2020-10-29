@@ -1,0 +1,10 @@
+'name': "Debian Package Install File"
+'scopeName': "source.debian.package.install"
+'fileTypes': [
+  "install"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]

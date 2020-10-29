@@ -1,0 +1,10 @@
+'name': "Debian Package Not-Installed File"
+'scopeName': "source.debian.package.not-installed"
+'fileTypes': [
+  "not-installed"
+]
+'patterns': [
+  {
+    'include': "source.shell"
+  }
+]
