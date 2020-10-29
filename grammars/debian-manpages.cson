@@ -1,7 +1,8 @@
 'name': "Debian Package Manpages File"
 'scopeName': "source.debian.package.manpages"
 'fileTypes': [
-  "manpages"
+  "manpages",
+  "docs"
 ]
 'patterns': [
   {
