@@ -5,10 +5,6 @@
 ]
 'patterns': [
   {
-    'include': "source.cs"
-  }
-  {
-    'match': "^#(load|r)"
-    'name': "preprocessor.source.csx"
+    'include': "source.shell"
   }
 ]
