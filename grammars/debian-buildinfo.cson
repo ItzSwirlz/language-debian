@@ -1,7 +1,7 @@
 'name': "Debian Package Build Information File"
 'scopeName': "source_version_arch.buildinfo"
 'fileTypes': [
-  "changes"
+  "buildinfo"
 ]
 'patterns': [
   {
