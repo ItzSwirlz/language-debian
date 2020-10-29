@@ -1,0 +1,10 @@
+'name': "Debian Packaging Substitution Variables File"
+'scopeName': "source.debian.package.substvars"
+'fileTypes': [
+  "substvars"
+]
+'patterns': [
+  {
+    'include': "source.debian.control"
+  }
+]
